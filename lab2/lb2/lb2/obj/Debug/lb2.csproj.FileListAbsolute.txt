@@ -1,0 +1,6 @@
+C:\Users\Oleh\source\repos\lb2\lb2\bin\Debug\lb2.exe.config
+C:\Users\Oleh\source\repos\lb2\lb2\bin\Debug\lb2.exe
+C:\Users\Oleh\source\repos\lb2\lb2\bin\Debug\lb2.pdb
+C:\Users\Oleh\source\repos\lb2\lb2\obj\Debug\lb2.csprojAssemblyReference.cache
+C:\Users\Oleh\source\repos\lb2\lb2\obj\Debug\lb2.exe
+C:\Users\Oleh\source\repos\lb2\lb2\obj\Debug\lb2.pdb
