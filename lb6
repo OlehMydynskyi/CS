@@ -1,0 +1,71 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace lb6
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            List<int> l = new List<int>();
+            string n;
+            int p = 1;
+
+            Console.WriteLine("Enter items for your list (if we enter all items, enter 's')");
+
+            while (true)
+            {
+                Console.Write("Enter item #{0} -> ", p);
+                n = Console.ReadLine();
+
+                if (n == "s")
+                {
+                    break;
+                }
+
+                l.Add(int.Parse(n));
+                p++;
+            }
+
+            if (l.Count == 0)
+            {
+                Console.WriteLine("Your list is empty!!!");
+            }
+            else
+            {
+                int key;
+                bool f = false;
+
+                Console.Write("Enter item for searching  -> ");
+                key = int.Parse(Console.ReadLine());
+
+                Console.Write("Index(es): ");
+                for (int i = 0; i < l.Count; i++)
+                {
+                   if (l[i] == key)
+                    {
+                        f = true;
+                        Console.Write("{0} ", i);
+                    }
+                }
+
+                if (!f)
+                {
+                    Console.WriteLine("none");
+                }
+
+                int[] arr = new int[l.Count];
+
+                for (int i = 0; i < l.Count; i++)
+                {
+                    arr[i] = l[i];
+                }
+            }
+
+            Console.ReadKey();
+        }
+    }
+}
