@@ -1,0 +1,6 @@
+C:\Users\Oleh\source\repos\lb11\lb11\bin\Debug\lb11.exe.config
+C:\Users\Oleh\source\repos\lb11\lb11\bin\Debug\lb11.exe
+C:\Users\Oleh\source\repos\lb11\lb11\bin\Debug\lb11.pdb
+C:\Users\Oleh\source\repos\lb11\lb11\obj\Debug\lb11.csprojAssemblyReference.cache
+C:\Users\Oleh\source\repos\lb11\lb11\obj\Debug\lb11.exe
+C:\Users\Oleh\source\repos\lb11\lb11\obj\Debug\lb11.pdb
