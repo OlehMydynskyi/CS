@@ -1,0 +1,9 @@
+C:\Users\Oleh\source\repos\ok1\ok1\bin\Debug\ok1.exe.config
+C:\Users\Oleh\source\repos\ok1\ok1\bin\Debug\ok1.exe
+C:\Users\Oleh\source\repos\ok1\ok1\bin\Debug\ok1.pdb
+C:\Users\Oleh\source\repos\ok1\ok1\obj\Debug\ok1.csprojAssemblyReference.cache
+C:\Users\Oleh\source\repos\ok1\ok1\obj\Debug\ok1.Form1.resources
+C:\Users\Oleh\source\repos\ok1\ok1\obj\Debug\ok1.Properties.Resources.resources
+C:\Users\Oleh\source\repos\ok1\ok1\obj\Debug\ok1.csproj.GenerateResource.cache
+C:\Users\Oleh\source\repos\ok1\ok1\obj\Debug\ok1.exe
+C:\Users\Oleh\source\repos\ok1\ok1\obj\Debug\ok1.pdb
